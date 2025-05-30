@@ -99,3 +99,29 @@ module.exports.remove = (id) => {
 module.exports.update = (id, edicao) => {
     return Edicao.findByIdAndUpdate(id, edicao, { new: true }).exec();
 }
+
+module.exports.participacoesPorPais = (pais) => {
+    return Edicao.find({ 'musicas.pais': pais }).exec()
+        .then(edicoes => {
+            return edicoes.flatMap(edicao => {
+                const musicasDoPais = edicao.musicas.filter(m => m.pais === pais);
+                return musicasDoPais.map(musica => ({
+                    edicaoId: edicao._id,
+                    ano: edicao.anoEdicao,
+                    musica: musica.titulo,
+                    interprete: musica.interprete,
+                    venceu: edicao.vencedor === pais
+                }));
+            });
+        });
+};
+
+module.exports.organizacoesPorPais = (pais) => {
+    return Edicao.find({ organizacao: pais }).exec()
+        .then(edicoes => {
+            return edicoes.map(edicao => ({
+                edicaoId: edicao._id,
+                ano: edicao.anoEdicao
+            }));
+        });
+};

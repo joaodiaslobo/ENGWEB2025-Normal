@@ -78,4 +78,21 @@ router.put('/edicoes/:id', function(req, res, next) {
     }
 );
 
+/* GET participacoes */
+router.get('/participacoes/:id', function(req, res, next) {
+    const pais = req.params.id;
+
+    Edicao.participacoesPorPais(pais)
+        .then(dados => res.jsonp(dados))
+        .catch(erro => res.status(500).jsonp(erro));
+});
+
+router.get('/organizacoes/:id', function(req, res, next) {
+    const pais = req.params.id;
+
+    Edicao.organizacoesPorPais(pais)
+        .then(dados => res.jsonp(dados))
+        .catch(erro => res.status(500).jsonp(erro));
+});
+
 module.exports = router;

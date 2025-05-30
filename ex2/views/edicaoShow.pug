@@ -1,0 +1,39 @@
+doctype html
+html
+  head
+    meta(charset="UTF-8")
+    title Edição de #{edicao.anoEdicao}
+    link(rel="icon", href="favicon.png")
+    link(rel="stylesheet", href="/w3.css")
+  body
+    header.w3-container.w3-blue
+      h1 Edição de #{edicao.anoEdicao}
+
+    main.w3-container
+      p
+        a(href="/") ← Voltar à página principal
+
+      p 
+        strong ID:
+        |  #{edicao._id}
+      p
+        strong País organizador:
+        |  #{edicao.organizacao}
+      p
+        strong País vencedor:
+        |  #{edicao.vencedor ? edicao.vencedor : '(sem vencedor)'}
+
+      h2 Lista de Músicas
+      table(border="1" cellpadding="5" cellspacing="0")
+        thead
+          tr
+            th Título
+            th Intérprete
+            th País
+        tbody
+          each musica in edicao.musicas
+            tr
+              td
+                a(href=musica.link target="_blank" rel="noopener") #{musica.titulo}
+              td #{musica.interprete}
+              td #{musica.pais}
