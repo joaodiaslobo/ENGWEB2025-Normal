@@ -3,6 +3,7 @@
     "_id": "ed1956",
     "anoEdicao": "1956",
     "organizacao": "Switzerland",
+    "vencedor": null,
     "musicas": [
       {
         "id": "m1956_Switzerland",
@@ -73,6 +74,7 @@
     "_id": "ed1957",
     "anoEdicao": "1957",
     "organizacao": "Germany",
+    "vencedor": "Netherlands",
     "musicas": [
       {
         "id": "m1957_Netherlands",
@@ -170,6 +172,7 @@
     "_id": "ed1958",
     "anoEdicao": "1958",
     "organizacao": "Netherlands",
+    "vencedor": "France",
     "musicas": [
       {
         "id": "m1958_France",
@@ -267,6 +270,7 @@
     "_id": "ed1959",
     "anoEdicao": "1959",
     "organizacao": "France",
+    "vencedor": "Netherlands",
     "musicas": [
       {
         "id": "m1959_Netherlands",
@@ -373,6 +377,7 @@
     "_id": "ed1960",
     "anoEdicao": "1960",
     "organizacao": "United_Kingdom",
+    "vencedor": "France",
     "musicas": [
       {
         "id": "m1960_France",
@@ -497,6 +502,7 @@
     "_id": "ed1961",
     "anoEdicao": "1961",
     "organizacao": "France",
+    "vencedor": "Luxembourg",
     "musicas": [
       {
         "id": "m1961_Luxembourg",
@@ -648,6 +654,7 @@
     "_id": "ed1962",
     "anoEdicao": "1962",
     "organizacao": "Luxembourg",
+    "vencedor": "France",
     "musicas": [
       {
         "id": "m1962_France",
@@ -799,6 +806,7 @@
     "_id": "ed1963",
     "anoEdicao": "1963",
     "organizacao": "United_Kingdom",
+    "vencedor": "Denmark",
     "musicas": [
       {
         "id": "m1963_Denmark",
@@ -950,6 +958,7 @@
     "_id": "ed1964",
     "anoEdicao": "1964",
     "organizacao": "Denmark",
+    "vencedor": "Italy",
     "musicas": [
       {
         "id": "m1964_Italy",
@@ -1101,6 +1110,7 @@
     "_id": "ed1965",
     "anoEdicao": "1965",
     "organizacao": "Italy",
+    "vencedor": "Luxembourg",
     "musicas": [
       {
         "id": "m1965_Luxembourg",
@@ -1270,6 +1280,7 @@
     "_id": "ed1966",
     "anoEdicao": "1966",
     "organizacao": "Luxembourg",
+    "vencedor": "Austria",
     "musicas": [
       {
         "id": "m1966_Austria",
@@ -1439,6 +1450,7 @@
     "_id": "ed1967",
     "anoEdicao": "1967",
     "organizacao": "Austria",
+    "vencedor": "United_Kingdom",
     "musicas": [
       {
         "id": "m1967_United_Kingdom",
@@ -1599,6 +1611,7 @@
     "_id": "ed1968",
     "anoEdicao": "1968",
     "organizacao": "United_Kingdom",
+    "vencedor": "Spain",
     "musicas": [
       {
         "id": "m1968_Spain",
@@ -1759,6 +1772,7 @@
     "_id": "ed1969",
     "anoEdicao": "1969",
     "organizacao": "Spain",
+    "vencedor": "Spain",
     "musicas": [
       {
         "id": "m1969_Spain",
@@ -1910,6 +1924,7 @@
     "_id": "ed1970",
     "anoEdicao": "1970",
     "organizacao": "Netherlands",
+    "vencedor": "Ireland",
     "musicas": [
       {
         "id": "m1970_Ireland",
@@ -2025,6 +2040,7 @@
     "_id": "ed1971",
     "anoEdicao": "1971",
     "organizacao": "Ireland",
+    "vencedor": "Monaco",
     "musicas": [
       {
         "id": "m1971_Monaco",
@@ -2194,6 +2210,7 @@
     "_id": "ed1972",
     "anoEdicao": "1972",
     "organizacao": "United_Kingdom",
+    "vencedor": "Luxembourg",
     "musicas": [
       {
         "id": "m1972_Luxembourg",
@@ -2363,6 +2380,7 @@
     "_id": "ed1973",
     "anoEdicao": "1973",
     "organizacao": "Luxembourg",
+    "vencedor": "Luxembourg",
     "musicas": [
       {
         "id": "m1973_Luxembourg",
@@ -2523,6 +2541,7 @@
     "_id": "ed1974",
     "anoEdicao": "1974",
     "organizacao": "United_Kingdom",
+    "vencedor": "Sweden",
     "musicas": [
       {
         "id": "m1974_Sweden",
@@ -2683,6 +2702,7 @@
     "_id": "ed1975",
     "anoEdicao": "1975",
     "organizacao": "Sweden",
+    "vencedor": "Netherlands",
     "musicas": [
       {
         "id": "m1975_Netherlands",
@@ -2861,6 +2881,7 @@
     "_id": "ed1976",
     "anoEdicao": "1976",
     "organizacao": "Netherlands",
+    "vencedor": "United_Kingdom",
     "musicas": [
       {
         "id": "m1976_United_Kingdom",
@@ -3030,6 +3051,7 @@
     "_id": "ed1977",
     "anoEdicao": "1977",
     "organizacao": "United_Kingdom",
+    "vencedor": "France",
     "musicas": [
       {
         "id": "m1977_France",
@@ -3199,6 +3221,7 @@
     "_id": "ed1978",
     "anoEdicao": "1978",
     "organizacao": "France",
+    "vencedor": "Israel",
     "musicas": [
       {
         "id": "m1978_Israel",
@@ -3386,6 +3409,7 @@
     "_id": "ed1979",
     "anoEdicao": "1979",
     "organizacao": "Israel",
+    "vencedor": "Israel",
     "musicas": [
       {
         "id": "m1979_Israel",
@@ -3564,6 +3588,7 @@
     "_id": "ed1980",
     "anoEdicao": "1980",
     "organizacao": "Netherlands",
+    "vencedor": "Ireland",
     "musicas": [
       {
         "id": "m1980_Ireland",
@@ -3742,6 +3767,7 @@
     "_id": "ed1981",
     "anoEdicao": "1981",
     "organizacao": "Ireland",
+    "vencedor": "United_Kingdom",
     "musicas": [
       {
         "id": "m1981_United_Kingdom",
@@ -3929,6 +3955,7 @@
     "_id": "ed1982",
     "anoEdicao": "1982",
     "organizacao": "United_Kingdom",
+    "vencedor": "Germany",
     "musicas": [
       {
         "id": "m1982_Germany",
@@ -4098,6 +4125,7 @@
     "_id": "ed1983",
     "anoEdicao": "1983",
     "organizacao": "Germany",
+    "vencedor": "Luxembourg",
     "musicas": [
       {
         "id": "m1983_Luxembourg",
@@ -4285,6 +4313,7 @@
     "_id": "ed1984",
     "anoEdicao": "1984",
     "organizacao": "Luxembourg",
+    "vencedor": "Sweden",
     "musicas": [
       {
         "id": "m1984_Sweden",
@@ -4463,6 +4492,7 @@
     "_id": "ed1985",
     "anoEdicao": "1985",
     "organizacao": "Sweden",
+    "vencedor": "Norway",
     "musicas": [
       {
         "id": "m1985_Norway",
@@ -4641,6 +4671,7 @@
     "_id": "ed1986",
     "anoEdicao": "1986",
     "organizacao": "Norway",
+    "vencedor": "Belgium",
     "musicas": [
       {
         "id": "m1986_Belgium",
@@ -4828,6 +4859,7 @@
     "_id": "ed1987",
     "anoEdicao": "1987",
     "organizacao": "Belgium",
+    "vencedor": "Ireland",
     "musicas": [
       {
         "id": "m1987_Ireland",
@@ -5033,6 +5065,7 @@
     "_id": "ed1988",
     "anoEdicao": "1988",
     "organizacao": "Ireland",
+    "vencedor": "Switzerland",
     "musicas": [
       {
         "id": "m1988_Switzerland",
@@ -5229,6 +5262,7 @@
     "_id": "ed1989",
     "anoEdicao": "1989",
     "organizacao": "Switzerland",
+    "vencedor": "Yugoslavia",
     "musicas": [
       {
         "id": "m1989_Yugoslavia",
@@ -5434,6 +5468,7 @@
     "_id": "ed1990",
     "anoEdicao": "1990",
     "organizacao": "Yugoslavia",
+    "vencedor": "Italy",
     "musicas": [
       {
         "id": "m1990_Italy",
@@ -5639,6 +5674,7 @@
     "_id": "ed1991",
     "anoEdicao": "1991",
     "organizacao": "Italy",
+    "vencedor": "Sweden",
     "musicas": [
       {
         "id": "m1991_Sweden",
@@ -5844,6 +5880,7 @@
     "_id": "ed1992",
     "anoEdicao": "1992",
     "organizacao": "Sweden",
+    "vencedor": "Ireland",
     "musicas": [
       {
         "id": "m1992_Ireland",
@@ -6058,6 +6095,7 @@
     "_id": "ed1993",
     "anoEdicao": "1993",
     "organizacao": "Ireland",
+    "vencedor": "Ireland",
     "musicas": [
       {
         "id": "m1993_Ireland",
@@ -6290,6 +6328,7 @@
     "_id": "ed1994",
     "anoEdicao": "1994",
     "organizacao": "Ireland",
+    "vencedor": "Ireland",
     "musicas": [
       {
         "id": "m1994_Ireland",
@@ -6522,6 +6561,7 @@
     "_id": "ed1995",
     "anoEdicao": "1995",
     "organizacao": "Ireland",
+    "vencedor": "Norway",
     "musicas": [
       {
         "id": "m1995_Norway",
@@ -6736,6 +6776,7 @@
     "_id": "ed1996",
     "anoEdicao": "1996",
     "organizacao": "Norway",
+    "vencedor": "Ireland",
     "musicas": [
       {
         "id": "m1996_Ireland",
@@ -6950,6 +6991,7 @@
     "_id": "ed1997",
     "anoEdicao": "1997",
     "organizacao": "Ireland",
+    "vencedor": "United_Kingdom",
     "musicas": [
       {
         "id": "m1997_United_Kingdom",
@@ -7182,6 +7224,7 @@
     "_id": "ed1998",
     "anoEdicao": "1998",
     "organizacao": "United_Kingdom",
+    "vencedor": "Israel",
     "musicas": [
       {
         "id": "m1998_Israel",
@@ -7414,6 +7457,7 @@
     "_id": "ed1999",
     "anoEdicao": "1999",
     "organizacao": "Israel",
+    "vencedor": "Sweden",
     "musicas": [
       {
         "id": "m1999_Sweden",
@@ -7628,6 +7672,7 @@
     "_id": "ed2000",
     "anoEdicao": "2000",
     "organizacao": "Sweden",
+    "vencedor": "Denmark",
     "musicas": [
       {
         "id": "m2000_Denmark",
@@ -7851,6 +7896,7 @@
     "_id": "ed2001",
     "anoEdicao": "2001",
     "organizacao": "Denmark",
+    "vencedor": "Estonia",
     "musicas": [
       {
         "id": "m2001_Estonia",
@@ -8065,6 +8111,7 @@
     "_id": "ed2002",
     "anoEdicao": "2002",
     "organizacao": "Estonia",
+    "vencedor": "Latvia",
     "musicas": [
       {
         "id": "m2002_Latvia",
@@ -8288,6 +8335,7 @@
     "_id": "ed2003",
     "anoEdicao": "2003",
     "organizacao": "Latvia",
+    "vencedor": "Turkey",
     "musicas": [
       {
         "id": "m2003_Turkey",
@@ -8529,6 +8577,7 @@
     "_id": "ed2004",
     "anoEdicao": "2004",
     "organizacao": "Turkey",
+    "vencedor": "Ukraine",
     "musicas": [
       {
         "id": "m2004_Ukraine",
@@ -8860,6 +8909,7 @@
     "_id": "ed2005",
     "anoEdicao": "2005",
     "organizacao": "Ukraine",
+    "vencedor": "Greece",
     "musicas": [
       {
         "id": "m2005_Greece",
@@ -9218,6 +9268,7 @@
     "_id": "ed2006",
     "anoEdicao": "2006",
     "organizacao": "Greece",
+    "vencedor": "Finland",
     "musicas": [
       {
         "id": "m2006_Finland",
@@ -9558,6 +9609,7 @@
     "_id": "ed2007",
     "anoEdicao": "2007",
     "organizacao": "Finland",
+    "vencedor": "Serbia",
     "musicas": [
       {
         "id": "m2007_Serbia",
@@ -9943,6 +9995,7 @@
     "_id": "ed2008",
     "anoEdicao": "2008",
     "organizacao": "Serbia",
+    "vencedor": "Russia",
     "musicas": [
       {
         "id": "m2008_Russia",
@@ -10337,6 +10390,7 @@
     "_id": "ed2009",
     "anoEdicao": "2009",
     "organizacao": "Russia",
+    "vencedor": "Norway",
     "musicas": [
       {
         "id": "m2009_Norway",
@@ -10722,6 +10776,7 @@
     "_id": "ed2010",
     "anoEdicao": "2010",
     "organizacao": "Norway",
+    "vencedor": "Germany",
     "musicas": [
       {
         "id": "m2010_Germany",
@@ -11080,6 +11135,7 @@
     "_id": "ed2011",
     "anoEdicao": "2011",
     "organizacao": "Germany",
+    "vencedor": "Azerbaijan",
     "musicas": [
       {
         "id": "m2011_Azerbaijan",
@@ -11474,6 +11530,7 @@
     "_id": "ed2012",
     "anoEdicao": "2012",
     "organizacao": "Azerbaijan",
+    "vencedor": "Sweden",
     "musicas": [
       {
         "id": "m2012_Sweden",
@@ -11859,6 +11916,7 @@
     "_id": "ed2013",
     "anoEdicao": "2013",
     "organizacao": "Sweden",
+    "vencedor": "Denmark",
     "musicas": [
       {
         "id": "m2013_Denmark",
@@ -12217,6 +12275,7 @@
     "_id": "ed2014",
     "anoEdicao": "2014",
     "organizacao": "Denmark",
+    "vencedor": "Austria",
     "musicas": [
       {
         "id": "m2014_Austria",
@@ -12557,6 +12616,7 @@
     "_id": "ed2015",
     "anoEdicao": "2015",
     "organizacao": "Austria",
+    "vencedor": "Sweden",
     "musicas": [
       {
         "id": "m2015_Sweden",
@@ -12924,6 +12984,7 @@
     "_id": "ed2016",
     "anoEdicao": "2016",
     "organizacao": "Sweden",
+    "vencedor": "Ukraine",
     "musicas": [
       {
         "id": "m2016_Ukraine",
@@ -13309,6 +13370,7 @@
     "_id": "ed2017",
     "anoEdicao": "2017",
     "organizacao": "Ukraine",
+    "vencedor": "Portugal",
     "musicas": [
       {
         "id": "m2017_Portugal",
@@ -13694,6 +13756,7 @@
     "_id": "ed2018",
     "anoEdicao": "2018",
     "organizacao": "Portugal",
+    "vencedor": "Israel",
     "musicas": [
       {
         "id": "m2018_Israel",
@@ -14088,6 +14151,7 @@
     "_id": "ed2019",
     "anoEdicao": "2019",
     "organizacao": "Israel",
+    "vencedor": "Netherlands",
     "musicas": [
       {
         "id": "m2019_Netherlands",
@@ -14464,6 +14528,7 @@
     "_id": "ed2020",
     "anoEdicao": "2020",
     "organizacao": "Netherlands",
+    "vencedor": null,
     "musicas": [
       {
         "id": "m2020_France",

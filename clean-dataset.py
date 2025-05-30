@@ -5,6 +5,7 @@ def normalize_edition(edition_data):
         "_id": edition_data["id"],
         "anoEdicao": edition_data["anoEdição"],
         "organizacao": edition_data.get("organizacao", ""),
+        "vencedor": edition_data.get("vencedor", None),
         "musicas": []
     }
 
